@@ -1,3 +1,8 @@
+**This code was originally part of https://github.com/dylan-lang/http
+but was separated into its own repository for archiving.**
+
+----
+
 Build the code-browser and start it from the top level directory
 of the http git repository:
 
